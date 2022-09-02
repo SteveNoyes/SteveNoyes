@@ -1,4 +1,1 @@
- Hi, I’m @SteveNoyes
- 
-
- I’m currently learning ...
+ Hi, I’m Steven Noyes
